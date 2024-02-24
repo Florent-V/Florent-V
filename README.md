@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Florent</h1>
-<h3 align="center">I'm an aspiring web developper curently training at Wild Code School, Fr.</h3>
+<h3 align="center">I'm an web developper curently working for Alten, Villeneuve d'Ascq, Fr.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=florent-v" alt="florent-v" /></a> </p>
 
