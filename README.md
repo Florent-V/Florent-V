@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/florent_vas" target="blank"><img src="https://img.shields.io/twitter/follow/florent_vas?logo=twitter&style=for-the-badge" alt="florent_vas" /></a> </p>
 
-- 🔭 I’m currently working on **became a fullstack developper**
+- 🔭 I’m currently working on **PHP Symfony projects !**
 
 - 🌱 I’m currently learning **HTML, CSS, JS, PHP, MySQL**
 
