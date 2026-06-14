@@ -22,7 +22,7 @@
 ```bash
 > name        : Florent Vasseur
 > location    : Villeneuve d'Ascq, France 🇫🇷
-> role        : Web Developer @ Alten
+> role        : Web Developer @ Kbane
 > focus       : PHP Symfony projects
 > background  : Former teacher turned dev — I explain things clearly 📚
 > learning    : HTML · CSS · JS · PHP · MySQL (always leveling up)
